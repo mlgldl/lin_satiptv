@@ -15,7 +15,7 @@ http://192.168.1.10/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=o
 http://192.168.1.10/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5121,5122,5120,5124
 #EXTINF:0,rbb Berlin HD
 http://192.168.1.10/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5310,5311,5312,5313,5314,5316,5317
-#EXTINF:0,KiKA HD
+#EXTINF:0 tvg-id="kika.toons",KiKA HD
 http://192.168.1.10/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6600,6610,6620,6630
 #EXTINF:0,3sat HD
 http://192.168.1.10/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6500,6510,6520,6530
