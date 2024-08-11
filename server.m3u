@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:0 tvg-id="das.erste" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/das%20erste%20hd.png",Das Erste HD
+#EXTINF:0 tvg-id="DasErste.de(m3u4u)" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/das%20erste%20hd.png",Das Erste HD
 http://192.168.1.10/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5100,5101,5102,5104
-#EXTINF:0 tvg-id="zdf",ZDF HD
+#EXTINF:0 tvg-id="ZDF.de(m3u4u)",ZDF HD
 http://192.168.1.10/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6100,6110,6120,6130
-#EXTINF:0 tvg-id="arte",arte HD
+#EXTINF:0 tvg-id="ARTE.de(m3u4u)",arte HD
 http://192.168.1.10/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5110,5111,511
-#EXTINF:0 tvg-id="ndr",NDR HD
+#EXTINF:0 tvg-id="NDRFernsehenMV.de(m3u4u)",NDR HD
 http://192.168.1.10/?src=1&freq=11583&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5221,5222,5240,5224
-#EXTINF:0 tvg-id="mdr",MDR HD
+#EXTINF:0 tvg-id="MDR1SachsenAnhalt.de(m3u4u)",MDR HD
 http://192.168.1.10/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5330,5331,5332,5334
-#EXTINF:0 tvg-id="wdr",WDR HD Aachen
+#EXTINF:0 tvg-id="WDRAachen.de(m3u4u)",WDR HD Aachen
 http://192.168.1.10/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,101,102,103,104,106,107,110,111
-#EXTINF:0 tvg-id="swr",SWR HD
+#EXTINF:0 tvg-id="SWRFernsehenBW.de(m3u4u)",SWR HD
 http://192.168.1.10/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5121,5122,5120,5124
-#EXTINF:0 tvg-id="rbb",rbb Berlin HD
+#EXTINF:0 tvg-id="rbbBerlin(src01).de(m3u4u)",rbb Berlin HD
 http://192.168.1.10/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5310,5311,5312,5313,5314,5316,5317
-#EXTINF:0 tvg-id="kika",KiKA HD
+#EXTINF:0 tvg-id="KiKA.de(m3u4u)",KiKA HD
 http://192.168.1.10/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6600,6610,6620,6630
-#EXTINF:0 tvg-id="3sat",3sat HD
+#EXTINF:0 tvg-id="3sat.de(m3u4u)",3sat HD
 http://192.168.1.10/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6500,6510,6520,6530
-#EXTINF:0 tvg-id="hr",HR HD
+#EXTINF:0 tvg-id="hrfernsehen.de(m3u4u)",HR HD
 http://192.168.1.10/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5350,5351,5352,5354
-#EXTINF:0 tvg-id="one",ONE HD
+#EXTINF:0 tvg-id="one.de(m3u4u)",ONE HD
 http://192.168.1.10/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5410,5411,5412
-#EXTINF:0 tvg-id="ard.alpha",ARD alpha HD
+#EXTINF:0 tvg-id="ARDalpha.de(m3u4u)",ARD alpha HD
 http://192.168.1.10/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5420,5421,5422,5423,5424,5426,5427
-#EXTINF:0 tvg-id="br",BR HD
+#EXTINF:0 tvg-id="BRFernsehenSud.de(m3u4u)",BR HD
 http://192.168.1.10/?src=1&freq=11583&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5201,5202,5210,5204
-#EXTINF:0 tvg-id="zdf.info",ZDFinfo HD
+#EXTINF:0 tvg-id="ZDFinfo.de(m3u4u)",ZDFinfo HD
 http://192.168.1.10/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6700,6710,6720,6730
-#EXTINF:0 tvg-id="zdf.neo",zdf_neo HD
+#EXTINF:0 tvg-id="ZDFneo.de(m3u4u)",zdf_neo HD
 http://192.168.1.10/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6300,6310,6320,6330
-#EXTINF:0 tvg-id="phoenix",phoenix HD
+#EXTINF:0 tvg-id="PHOENIX.de(m3u4u)",phoenix HD
 http://192.168.1.10/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5260,5261,5262,5263
-#EXTINF:0 tvg-id="tagesschau24",tagesschau24 HD
+#EXTINF:0 tvg-id="tagesschau24.de(m3u4u)",tagesschau24 HD
 http://192.168.1.10/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5400,5401,5402
-#EXTINF:0 tvg-id="ntv",n-tv
+#EXTINF:0 tvg-id="ntv.de(m3u4u)",n-tv
 http://192.168.1.10/?src=1&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,48,169,73
-#EXTINF:0 tvg-id="dmax",DMAX
+#EXTINF:0 tvg-id="DMAX.de(m3u4u)",DMAX
 http://192.168.1.10/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,3327,3328,108,44
-#EXTINF:0 tvg-id="kabel.eins",kabel eins
+#EXTINF:0 tvg-id="kabeleins.de(m3u4u)",kabel eins
 http://192.168.1.10/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,767,768,98,34
-#EXTINF:0 tvg-id="prosieben",ProSieben
+#EXTINF:0 tvg-id="ProSieben.de(m3u4u)",ProSieben
 http://192.168.1.10/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,97,511,512,33
-#EXTINF:0 tvg-id="rtl",RTL
+#EXTINF:0 tvg-id="RTL.de(m3u4u)",RTL
 http://192.168.1.10/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,163,104,44,105
-#EXTINF:0 tvg-id="rtl.zwei",RTLZWEI
+#EXTINF:0 tvg-id="RTLZWEI.de(m3u4u)",RTLZWEI
 http://192.168.1.10/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,166,128,46,68
-#EXTINF:0 tvg-id="sat1",SAT.1
+#EXTINF:0 tvg-id="Sat1.de(m3u4u)",SAT.1
 http://192.168.1.10/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,255,256,96,32
-#EXTINF:0 tvg-id="sport1",SPORT1 HD
+#EXTINF:0 tvg-id="SPORT1.de(m3u4u)",SPORT1 HD
 http://192.168.1.10/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,1023,1024,103,39
-#EXTINF:0 tvg-id="vox",VOX
+#EXTINF:0 tvg-id="VOX.de(m3u4u)",VOX
 http://192.168.1.10/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,167,136,47,71
