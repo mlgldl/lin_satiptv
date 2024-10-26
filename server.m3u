@@ -4,7 +4,7 @@ http://192.168.1.10/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=o
 #EXTINF:0 tvg-id="ZDF.de(m3u4u)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86886_dark_360w_270h.png",ZDF HD
 http://192.168.1.10/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6100,6110,6120,6130
 #EXTINF:0 tvg-id="ARTE.de(m3u4u)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87847_dark_360w_270h.png",arte HD
-http://192.168.1.10/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5110,5111,511
+http://192.168.1.10/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5110,5111,5112,5113
 #EXTINF:0 tvg-id="NDRFernsehenMV.de(m3u4u)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53753_dark_360w_270h.png",NDR HD
 http://192.168.1.10/?src=1&freq=11583&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5221,5222,5240,5224
 #EXTINF:0 tvg-id="MDR1SachsenAnhalt.de(m3u4u)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101485_dark_360w_270h.png",MDR HD
